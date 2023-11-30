@@ -1,0 +1,53 @@
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe.config
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.pdb
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\FontAwesome.Sharp.dll
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.AssemblyReference.cache
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.CopyComplete
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Login.resources
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.DangKyPhong.resources
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\Guna.UI2.dll
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.AllFormChild.TraCuuHoSo.resources
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.DashBoard.resources
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.AllFormChild.hello.resources
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.AllFormChild.test.resources
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.AllFormChild.ChonPhongNu.resources
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.AllFormChild.PheDuyetHoSo.resources
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.PheDuyetHoSO.resources
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.AllFormChild.QuanLyLuuTru.resources
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.ThongTinLuuTru.resources
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.AllFormChild.GhiTienDienNuoc.resources
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.ThanhToan.resources
+D:\Learn in class\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.AllFormChild.ThanhToanDienNuoccs.resources
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\FontAwesome.Sharp.dll
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe.config
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\Guna.UI2.dll
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.AssemblyReference.cache
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.AllFormChild.ChonPhongNu.resources
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.AllFormChild.GhiTienDienNuoc.resources
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.AllFormChild.QuanLyLuuTru.resources
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.AllFormChild.test.resources
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.AllFormChild.hello.resources
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.AllFormChild.PheDuyetHoSo.resources
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.AllFormChild.ThanhToanDienNuoccs.resources
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.AllFormChild.TraCuuHoSo.resources
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.ChuyenPhong.resources
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.DangKyPhong.resources
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.DashBoard.resources
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Login.resources
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.PheDuyetHoSO.resources
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.ThanhToan.resources
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.ThongTinLuuTru.resources
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.CopyComplete
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
+D:\Learn in class\Năm 3-kì 1\C#(truc quan)\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.pdb
